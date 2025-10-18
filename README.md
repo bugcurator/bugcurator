@@ -52,10 +52,6 @@
 
 ### 🎨 My Creative Side
 
-<p align="left">
-  <img algin="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320">
-</p>
-
 I believe coding is an art.  
 I value design systems, smooth animations, and the feeling of flow in an app.  
 Every pixel matters. Every function should earn its keep.
@@ -94,23 +90,4 @@ Every pixel matters. Every function should earn its keep.
   <a href="https://instagram.com/yourhandle" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
-</p>
-
----
-
-### ⚡ Fun Zone
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="160">
-  <img src="https://media.giphy.com/media/26xBukh3Gsn6E7H6A/giphy.gif" width="160">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="160">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="160">
-</p>
-
-<h4 align="center">✨ Code with clarity. Design with purpose. Live with curiosity. ✨</h4>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
 </p>
