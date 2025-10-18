@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Hey, I'm <span style="color:#00BFFF;">Beedu</span>
 </h1>
-<h3 align="center">🚀 Full Stack Developer | 🎓 Computer Science Student | 🌍 Tech Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | 🌍 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="280" alt="developer at work">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300" alt="Coding animation">
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SUenl6iC9bE3Tj9qYB/giphy.gif" width="80">
+ <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 </p>
 
 <p align="center">
@@ -52,8 +52,8 @@
 
 ### 🎨 My Creative Side
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320">
+<p align="left">
+  <img algin="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320">
 </p>
 
 I believe coding is an art.  
@@ -75,41 +75,24 @@ Every pixel matters. Every function should earn its keep.
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR0jz8GZ6D4bTby/giphy.gif" width="250">
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="320">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
-  <a href="https://github.com/beedu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/beedu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 </p>
 
