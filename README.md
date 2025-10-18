@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hey, I'm <span style="color:#00BFFF;">Beedu</span>
+  Hey, I'm <span style="color:#00BFFF;">Ubaid Ahmad</span>
 </h1>
 <h3 align="center">🚀 Full Stack Developer | 🌍 Tech Explorer</h3>
 
@@ -17,14 +17,10 @@
   <img align="right" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300">
 </p>
 
-- 💻 I build elegant, scalable web applications  
-- 🧠 I code in **C++, Python, and JavaScript**  
-- ⚡ I use **React.js, Node.js, MongoDB** for full-stack projects  
-- 🐧 I love working in **Linux** environments  
-- 🎨 I craft clean UIs with **HTML, CSS, Tailwind, Bootstrap, Sass**  
-- 🔧 I manage projects using **Git & GitHub**  
-- 🌱 Currently learning **TypeScript, Next.js, and DevOps tools**  
-- 💬 Passionate about turning complex ideas into usable products  
+- 🌱 I'm currently learning **TypeScript, Next.js, and DevOps tools**
+- 💻 I'm currently working on **building full-stack web applications using React.js and Node.js**
+- 🤝 I'm looking for **collaborations on open-source and creative tech projects**
+- 🧠 I code in **C++, Python, and JavaScript**
 
 ---
 
@@ -78,16 +74,10 @@ Every pixel matters. Every function should earn its keep.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:iubaidahmad303@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
-  <a href="https://github.com/beedu" target="_blank">
+  <a href="https://github.com/domcommander" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
-  </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 </p>
