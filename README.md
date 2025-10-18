@@ -14,22 +14,18 @@
 ### 🌟 About Me
 
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300">
+  <img align="right" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200">
 </p>
 
 - 🌱 I'm currently learning **TypeScript, Next.js, and DevOps tools**
 - 💻 I'm currently working on **building full-stack web applications using React.js and Node.js**
 - 🤝 I'm looking for **collaborations on open-source and creative tech projects**
 - 🧠 I code in **C++, Python, and JavaScript**
-
+ 
 ---
-
+ 
 ### 🧠 Tech Stack & Tools
-
-<p align="center">
- <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
-</p>
-
+ 
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
@@ -41,12 +37,16 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   <br>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ---
 
 ### 🎨 My Creative Side
+
+<p align="left">
+ <img  align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+</p>
 
 I believe coding is an art.  
 I value design systems, smooth animations, and the feeling of flow in an app.  
