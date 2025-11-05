@@ -79,7 +79,7 @@ Every pixel matters. Every function should earn its keep.
   <a href="mailto:iubaidahmad303@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
-  <a href="https://github.com/domcommander" target="_blank">
+  <a href="https://github.com/bugcurator" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 </p>
