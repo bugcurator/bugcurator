@@ -60,7 +60,6 @@ Every pixel matters. Every function should earn its keep.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beedu&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beedu&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
