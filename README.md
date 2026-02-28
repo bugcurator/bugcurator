@@ -37,9 +37,9 @@ You don't need another developer who just writes code. You need a **solution arc
 
 **My Three Core Areas:**
 
-⚡ **Engineering** — Reliable, fast systems using the MERN stack  
-🎨 **Design** — Clean UI/UX that makes users take action  
-🤖 **Intelligence** — Agentic AI workflows that do the work for you
+⚡ **Engineering**: Reliable, fast systems using the MERN stack  
+🎨 **Design**: Clean UI/UX that makes users take action  
+🤖 **Intelligence**: Agentic AI workflows that do the work for you
 
 > *"I have successfully built an educational platform, high-converting portfolios, and custom brand systems that show technical depth and problem-solving."*
 
