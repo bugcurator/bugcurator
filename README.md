@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Ubaid%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Agentic%20AI%20%7C%20UI%2FUX%20Design&descAlignY=58&descColor=90e0ef&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Ubaid%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20UI%2FUX%20Design%20%7C%20Scalable%20Systems&descAlignY=58&descColor=90e0ef&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<a href="https://bugcurator.github.io/Ubaid-Dev" target="_blank">
+<a href="https://opsubaid.github.io/Ubaid-Dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00b4d8" />
 </a>
 <a href="https://www.linkedin.com/in/ubaid-ahmad-07423b2a8" target="_blank">
@@ -15,13 +15,13 @@
 <a href="mailto:iubaidahmad303@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8" />
 </a>
-<a href="https://github.com/bugcurator" target="_blank">
+<a href="https://github.com/opsubaid" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bugcurator&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=opsubaid&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -31,15 +31,15 @@
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Coding GIF" />
 
-I help startups stop struggling with **slow, generic web interfaces** and start scaling with **high-performance MERN applications integrated with Agentic AI.**
+I help startups stop struggling with **slow, generic web interfaces** and start scaling with **high-performance MERN applications designed for growth.**
 
-You don't need another developer who just writes code. You need a **solution architect** who merges easy-to-use design with autonomous AI systems to automate your growth.
+You don't need another developer who just writes code. You need a **solution architect** who merges intuitive user experiences with robust, clean architecture to transform complex requirements into seamless digital products.
 
 **My Three Core Areas:**
 
 ⚡ **Engineering**: Reliable, fast systems using the MERN stack  
 🎨 **Design**: Clean UI/UX that makes users take action  
-🤖 **Intelligence**: Agentic AI workflows that do the work for you
+🏗️ **Architecture**: Scalable codebases built without technical debt
 
 > *"I have successfully built an educational platform, high-converting portfolios, and custom brand systems that show technical depth and problem-solving."*
 
@@ -76,9 +76,9 @@ You don't need another developer who just writes code. You need a **solution arc
 | 🏗️ Project | 📝 Description | 🔧 Stack | 🌐 Live Demo | 💻 Source Code |
 | :--- | :--- | :--- | :---: | :---: |
 | **DevOps Portfolio** | High-performance personal portfolio for a DevOps engineer. | `HTML` `CSS` `JS` | [Visit Site](https://idavidkhan.github.io/DevOps/) | [View Repo](https://github.com/idavidkhan/DevOps) |
-| **StudyStation** | Multi-page interface for a learning channel with fluid animations. | `HTML` `Tailwind` `JS` | [Visit Site](https://bugcurator.github.io/StudyStation/) | [View Repo](https://github.com/bugcurator/StudyStation) |
-| **Hadaf Immigration** | Professional, conversion-focused consultancy design system. | `HTML` `CSS` `JS` | [Visit Site](https://bugcurator.github.io/Hadaf-Immigration/) | [View Repo](https://github.com/bugcurator/Hadaf-Immigration) |
-| **Personal Portfolio** | Premium dark aesthetic portfolio with testimonials and contact. | `HTML` `Tailwind` `JS` | [Visit Site](https://bugcurator.github.io/) | [View Repo](https://github.com/bugcurator) |
+| **StudyStation** | Multi-page interface for a learning channel with fluid animations. | `HTML` `Tailwind` `JS` | [Visit Site](https://opsubaid.github.io/StudyStation/) | [View Repo](https://github.com/opsubaid/StudyStation) |
+| **Hadaf Immigration** | Professional, conversion-focused consultancy design system. | `HTML` `CSS` `JS` | [Visit Site](https://opsubaid.github.io/Hadaf-Immigration/) | [View Repo](https://github.com/opsubaid/Hadaf-Immigration) |
+| **Personal Portfolio** | Premium dark aesthetic portfolio with testimonials and contact. | `HTML` `Tailwind` `JS` | [Visit Site](https://opsubaid.github.io/) | [View Repo](https://github.com/opsubaid) |
 
 </div>
 
@@ -89,7 +89,7 @@ You don't need another developer who just writes code. You need a **solution arc
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com/?user=bugcurator&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=opsubaid&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9" width="49%" />
 
 <br/>
 
@@ -119,13 +119,13 @@ You don't need another developer who just writes code. You need a **solution arc
 ---
 
 ## 🌱 Currently Exploring
-*Focusing on the future of autonomous software.*
+*Focusing on the future of scalable engineering.*
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="200px">
-  <strong>Agentic AI</strong><br/>
+  <strong>System Design</strong><br/>
   <img src="https://img.shields.io/badge/Advancing-00b4d8?style=flat-square" /><br/>
   <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░-90%25-00b4d8?style=flat-square&labelColor=0d1117" />
 </td>
@@ -166,7 +166,7 @@ You don't need another developer who just writes code. You need a **solution arc
 <a href="https://www.linkedin.com/in/ubaid-ahmad-07423b2a8" target="_blank">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117" />
 </a>
-<a href="https://bugcurator.github.io/Ubaid-Dev" target="_blank">
+<a href="https://opsubaid.github.io/Ubaid-Dev" target="_blank">
   <img src="https://img.shields.io/badge/View%20Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00b4d8&labelColor=0d1117" />
 </a>
 
